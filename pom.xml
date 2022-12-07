@@ -64,7 +64,7 @@
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
-                                            <value>COVEREDRADIOMAN</value>
+                                            <value>COVEREDRATIO</value>
                                             <minimum>1.0</minimum>
                                         </limit>
                                     </limits>
